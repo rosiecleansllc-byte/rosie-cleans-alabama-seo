@@ -52,21 +52,21 @@ export const huntsvilleData: CityData = {
       id: "recurring",
       name: "Recurring House Cleaning",
       description:
-        "Keep your Huntsville home consistently clean with weekly, bi-weekly, or monthly service. Our professional teams follow a detailed checklist every visit.",
+        "Keep your Huntsville home consistently clean with weekly, bi-weekly, or monthly service. Our professional teams are thorough and reliable every visit.",
       icon: "repeat",
     },
     {
       id: "deep-cleaning",
       name: "First-Time Deep Cleaning",
       description:
-        "Starting fresh? Our comprehensive first-time deep clean covers every corner of your home — from baseboards to ceiling fans — leaving it spotless.",
+        "Starting fresh? Our comprehensive first-time deep clean covers every corner of your home — from baseboards to ceiling fans — leaving it clean.",
       icon: "sparkles",
     },
     {
       id: "move-in",
       name: "Move-In Cleaning",
       description:
-        "Move into a truly clean home. We deep clean before you unpack so every surface, cabinet, and appliance is fresh and ready for your family.",
+        "Move into a clean home. We deep clean before you unpack so every surface, cabinet, and appliance is fresh and ready for your family.",
       icon: "home",
     },
     {
@@ -101,7 +101,7 @@ export const huntsvilleData: CityData = {
       id: "bathroom-deep",
       name: "Bathroom Deep Cleaning",
       description:
-        "Thorough scrubbing of tiles, grout, fixtures, and all surfaces for a truly sanitized bathroom.",
+        "Thorough scrubbing of tiles, fixtures, and all surfaces for a truly sanitized bathroom.",
       icon: "droplets",
       isAddOn: true,
     },
@@ -109,7 +109,7 @@ export const huntsvilleData: CityData = {
       id: "interior-windows",
       name: "Interior Windows",
       description:
-        "Crystal-clear interior window cleaning including sills, tracks, and frames.",
+        "Interior window cleaning including sills, tracks, and frames.",
       icon: "window",
       isAddOn: true,
     },
@@ -222,7 +222,7 @@ export const huntsvilleData: CityData = {
     {
       title: "Professional Systems",
       description:
-        "Every clean follows a detailed checklist so nothing is missed. We use proven processes that deliver consistent results.",
+        "Nothing gets missed. We use proven processes that deliver consistent results every visit.",
       icon: "clipboard-check",
     },
     {

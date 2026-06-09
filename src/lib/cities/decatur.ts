@@ -62,7 +62,7 @@ export const decaturData: CityData = {
       id: "move-out",
       name: "Move-Out Cleaning",
       description:
-        "Leave your Decatur rental spotless and protect your security deposit.",
+        "Leave your Decatur rental clean and protect your security deposit.",
       icon: "truck",
     },
     {

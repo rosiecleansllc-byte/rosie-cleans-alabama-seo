@@ -56,7 +56,7 @@ export const madisonData: CityData = {
       id: "move-in",
       name: "Move-In Cleaning",
       description:
-        "Move into a truly clean Madison home. We deep clean before you unpack.",
+        "Move into a clean Madison home. We deep clean before you unpack.",
       icon: "home",
     },
     {

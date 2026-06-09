@@ -62,7 +62,7 @@ export const harvestData: CityData = {
       id: "move-out",
       name: "Move-Out Cleaning",
       description:
-        "Leave your Harvest rental spotless and protect your security deposit.",
+        "Leave your Harvest rental clean and protect your security deposit.",
       icon: "truck",
     },
     {

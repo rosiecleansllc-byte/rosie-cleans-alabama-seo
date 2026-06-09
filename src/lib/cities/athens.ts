@@ -61,7 +61,7 @@ export const athensData: CityData = {
       id: "move-out",
       name: "Move-Out Cleaning",
       description:
-        "Leave your Athens rental spotless and protect your security deposit.",
+        "Leave your Athens rental clean and protect your security deposit.",
       icon: "truck",
     },
     {

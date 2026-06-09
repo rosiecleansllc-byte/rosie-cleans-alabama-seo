@@ -2,10 +2,9 @@ import { CityData, PageVariant } from "@/types/city";
 import Header from "@/components/sections/Header";
 import Footer from "@/components/sections/Footer";
 import HeroSection from "@/components/sections/HeroSection";
-import TrustSection from "@/components/sections/TrustSection";
 import ServicesSection from "@/components/sections/ServicesSection";
-import WhyChooseSection from "@/components/sections/WhyChooseSection";
 import ProcessSection from "@/components/sections/ProcessSection";
+import WhyChooseSection from "@/components/sections/WhyChooseSection";
 import FAQSection from "@/components/sections/FAQSection";
 import CTASection from "@/components/sections/CTASection";
 import {
@@ -56,10 +55,9 @@ export default function CityPage({
             subheadline={heroOverride?.subheadline || city.hero.subheadline}
             variant={variant}
           />
-          <TrustSection />
           <ServicesSection services={city.services} cityName={city.name} />
-          <WhyChooseSection items={city.whyChoose} cityName={city.name} />
           <ProcessSection />
+          <WhyChooseSection items={city.whyChoose} cityName={city.name} />
           <FAQSection faqs={city.faqs} />
           <CTASection cityName={city.name} />
         </main>
