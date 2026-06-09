@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does house cleaning cost in Huntsville, AL?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pricing depends on your home's size, condition, and the type of cleaning service you need. We provide transparent estimated pricing when you request a quote online. Payment is only charged after service completion — you never pay until you're happy with the results. Most recurring cleanings for a 3-bedroom home in Huntsville range from $120–$180 per visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in a first-time deep cleaning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our first-time deep cleaning is the most thorough service we offer. It covers all rooms top-to-bottom: dusting ceiling fans and light fixtures, cleaning baseboards and door frames, scrubbing bathrooms thoroughly, deep cleaning kitchen surfaces and appliances (exterior), mopping all floors, and vacuuming all carpets. It is the ideal starting point before transitioning to recurring cleaning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does recurring house cleaning work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After your first-time deep clean, you can schedule recurring service weekly, every two weeks, or monthly. We send the same trusted team to your home each visit. Recurring clients receive priority scheduling and discounted rates. You can manage your bookings, reschedule, and add services entirely online."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does move-out cleaning include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our move-out cleaning is designed to meet landlord and property manager standards. We clean all rooms thoroughly including inside appliances (oven, refrigerator), inside cabinets, baseboards, windows (interior), and all surfaces. This service is typically required to recover your security deposit and is one of our most requested services."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer office cleaning in Huntsville?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! We provide professional office and commercial cleaning services throughout Huntsville and the surrounding areas. Services include regular office cleaning, restroom sanitization, kitchen/break room cleaning, floor care, and more. Contact us for a customized commercial cleaning quote."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to provide cleaning supplies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No — we bring all professional-grade cleaning supplies and equipment to every job. Our products are effective, safe, and thoroughly clean your home. If you have specific product preferences or sensitivities, just let us know and we will do our best to accommodate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it okay if I have pets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. We love pets and are comfortable cleaning in pet-friendly homes. We use pet-safe cleaning products. Please let us know about your pets when booking so our team can be prepared. If your pet is anxious around strangers, you may want to secure them during the cleaning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I schedule a cleaning appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Booking is easy and completely online. Visit our website, select your service type, enter your home details, choose a date and time, and confirm your booking. You will receive a confirmation email immediately. You can also call us at 256-469-1885 if you prefer to book by phone."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is your arrival window?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide a 2-hour arrival window for your appointment. You will receive a reminder the day before and a notification when our team is on the way. We respect your time and work to arrive within the scheduled window every visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When do I pay for my cleaning service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Payment is processed after your cleaning is complete — never before. We accept all major credit cards. You will receive an invoice after service, and payment is collected electronically. We never charge until the job is done and you are satisfied."
+      }
+    }
+  ]
+}
